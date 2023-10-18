@@ -1,0 +1,13 @@
+<?php  $phone = "(855) 772-6090";?>
+<?php  $email = "info@thepraetors.com";?>
+<?php  $domain = "thepraetors.com";?>
+<?php  $address = "287 Park Avenue South, New York, NY 10010";?>
+<?php  $name = "The Praetors";?>
+<?php  $whatsapp = "javascript:;";?>
+<?php  $facebook = "javascript:;";?>
+<?php  $twitter = "javascript:;";?>
+<?php  $instagram = "javascript:;";?>
+<?php  $linkedin = "javascript:;";?>
+<?php  $pinterest = "javascript:;";?>
+<?php  $bark = "javascript:;";?>
+<?php  $goodfirms = "javascript:;";?>
